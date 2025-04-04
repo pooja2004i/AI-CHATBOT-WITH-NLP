@@ -1,5 +1,17 @@
 # AI-CHATBOT-WITH-NLP
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: POOJA I
+
+INTERN ID: CT04WU140
+
+DONAIN: PYTHON PROGRAMMING 
+
+DURATION: 4 HEEEKS
+
+MENTOR: NEELA SANTOSH
+
 Task 3: AI Chatbot with NLP
 For Task 3, I built a simple chatbot using Natural Language Processing tools such as NLTK.
 An AI chatbot powered by Natural Language Processing (NLP) is a conversational system designed to understand and respond to user queries in human-like language. Chatbots are widely used in customer service, virtual assistants, and automation processes to enhance user interaction and reduce manual workload.
