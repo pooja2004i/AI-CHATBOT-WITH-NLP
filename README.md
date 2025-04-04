@@ -8,3 +8,5 @@ The goal of this task is to develop a chatbot using Python that can process user
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/051d240c-24eb-455a-bbc6-f76075306f8a)
+
